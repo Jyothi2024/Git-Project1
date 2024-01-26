@@ -3,8 +3,19 @@ package main;
 public class HomePage {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+	}
+		public static void sum() {
+			
+			
+			int i=10;
+			int b=12;
+			
+			int c=i+b;
+			System.out.println(c);
+			
+		}
 
 	}
 
-}
+
